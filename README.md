@@ -16,10 +16,10 @@ Skills: Javascript / React / Node / mongodb / Redux / Typescript
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RuhulAmin3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ruhul-amin-dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devRuhulAmin3)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/RuhulAmin3/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RuhulAmin3&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/RuhulAmin3/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuhulAmin3&layout=compact&langs_count=8&card_width=320" />
 </a>
 

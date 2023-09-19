@@ -53,7 +53,15 @@ I'm a passionate MERN Stack Developer, skilled in both front-end and back-end de
   </a>
 </div>
 
-### my Stats:
+###
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RuhulAmin3)  
+<h3 align="left">🔥 My Stats :</h3>
+
+###
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=RuhulAmin3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
 

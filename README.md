@@ -20,7 +20,7 @@ I'm a passionate MERN Stack Developer, skilled in both front-end and back-end de
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RuhulAmin3&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,7 +40,7 @@ I'm a passionate MERN Stack Developer, skilled in both front-end and back-end de
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-###
+### Connect with me
 
 <div align="left">
   <a href="dev.ruhulamin3@gmail.com" target="_blank">

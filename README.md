@@ -1,6 +1,6 @@
 ![MERN Stack developer](https://media.licdn.com/dms/image/D5616AQEsxIt5ASQ6ow/profile-displaybackgroundimage-shrink_350_1400/0/1694443612342?e=1700697600&v=beta&t=Cd9uHZoiUKTuvqEO7Po4k_6G2LH9TQaUHbNxtoJye-4)
 
-### Hi there 👋, I'm Ruhul Amin
+### Hi 👋, I'm Ruhul Amin
 #### MERN Stack developer
 
 I'm a passionate MERN Stack Developer, skilled in both front-end and back-end development, and I love creating web applications using MongoDB, Express.js, React, and Node.js. I enjoy working collaboratively in dynamic teams. I'm committed to continuous learning, staying updated with the latest web development trends, and I'm really excited to connect with you to explore opportunities for building outstanding projects together!

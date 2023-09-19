@@ -3,17 +3,13 @@
 ### Hi there 👋, I'm Ruhul Amin
 #### MERN Stack developer
 
-
 I'm a passionate MERN Stack Developer, skilled in both front-end and back-end development, and I love creating web applications using MongoDB, Express.js, React, and Node.js. I enjoy working collaboratively in dynamic teams. I'm committed to continuous learning, staying updated with the latest web development trends, and I'm really excited to connect with you to explore opportunities for building outstanding projects together!
-
-Skills: Javascript / React / Node / mongodb / Redux / Typescript
 
 - 🔭 I’m currently working on self-learning 
 - 🌱 I’m currently learning Next js 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: dev.ruhulamin3@gmail.com 
 
-<img align="right" height="150" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
 
@@ -59,7 +55,6 @@ Skills: Javascript / React / Node / mongodb / Redux / Typescript
 </div>
 
 ###
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=RuhulAmin3)  
 

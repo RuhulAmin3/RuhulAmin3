@@ -1,4 +1,4 @@
-![MERN Stack developer](https://ibb.co/gwwDCjG)
+![MERN Stack developer](https://i.ibb.co/4MMjxmc/linked-In-banner.jpg)
 
 ### Hi 👋, I'm Ruhul Amin
 #### MERN Stack developer
